@@ -1,6 +1,0 @@
-C:\Keil\C#\ConsoleRender\ConsoleRender\bin\Debug\ConsoleRender.exe.config
-C:\Keil\C#\ConsoleRender\ConsoleRender\bin\Debug\ConsoleRender.exe
-C:\Keil\C#\ConsoleRender\ConsoleRender\bin\Debug\ConsoleRender.pdb
-C:\Keil\C#\ConsoleRender\ConsoleRender\obj\Debug\ConsoleRender.csprojResolveAssemblyReference.cache
-C:\Keil\C#\ConsoleRender\ConsoleRender\obj\Debug\ConsoleRender.exe
-C:\Keil\C#\ConsoleRender\ConsoleRender\obj\Debug\ConsoleRender.pdb
